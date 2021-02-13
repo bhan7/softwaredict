@@ -17,6 +17,8 @@
 ### [X](#x-1)
 
 ## A
+Ad-hoc:  
+It generally means a solution designed for a specific problem or task OR it can also be an adjective describing the temporary, provisional, or improvised methods to deal with a particular problem.  
 AJAX = Asynchronous JavaScript and XML  
 
 ## C
@@ -51,6 +53,8 @@ ORM = Object Relational Mapping
 POP = Post Office Protocol  
 
 ## R
+Regression testing:
+It is re-running functional and non-functional tests to ensure that previously developed and tested software still performs after a change. Changes that may require regression testing include bug fixes, software enhancements, configuration changes, and even substitution of electronic components.  
 REST = Representational State Transfer  
 
 ## S
